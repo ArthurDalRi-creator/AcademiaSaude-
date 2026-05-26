@@ -74,8 +74,8 @@ namespace AcademiaSaude
 		!txtSenha.UseSystemPasswordChar;
 		}
 
-    }
-
 	}
+
+}
 
 
