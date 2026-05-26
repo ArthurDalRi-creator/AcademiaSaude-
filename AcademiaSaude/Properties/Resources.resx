@@ -130,9 +130,12 @@
   <data name="icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="halternovo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\halternovo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> e0702cbe497f699a257c38480bb391c3adbd9082
   <data name="silhueta" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\silhueta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -154,16 +157,24 @@
   <data name="Vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Vector.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="fotoAcademia" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fotoAcademia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> e0702cbe497f699a257c38480bb391c3adbd9082
   <data name="ChatGPT Image 20 de mai. de 2026, 21_04_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ChatGPT Image 20 de mai. de 2026, 21_04_10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="chat1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\chat1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="fotoAcad2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fotoAcad2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="halternovo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\halternovo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> e0702cbe497f699a257c38480bb391c3adbd9082
   </data>
 </root>

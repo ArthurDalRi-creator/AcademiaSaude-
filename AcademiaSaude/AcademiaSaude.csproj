@@ -175,11 +175,14 @@
   <ItemGroup>
     <None Include="Resources\halternovo.png" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <None Include="Resources\fotoAcademia.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\fotoAcad2.jpg" />
   </ItemGroup>
+=======
+>>>>>>> e0702cbe497f699a257c38480bb391c3adbd9082
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

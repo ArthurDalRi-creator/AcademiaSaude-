@@ -123,6 +123,7 @@ namespace AcademiaSaude.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap fotoAcad2 {
             get {
                 object obj = ResourceManager.GetObject("fotoAcad2", resourceCulture);
@@ -143,6 +144,8 @@ namespace AcademiaSaude.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> e0702cbe497f699a257c38480bb391c3adbd9082
         internal static System.Drawing.Bitmap halternovo {
             get {
                 object obj = ResourceManager.GetObject("halternovo", resourceCulture);
